@@ -23,6 +23,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://thinkdivergent.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: think_divergent
 github_username:  think-divergent
+instagram_username: think.divergent
 
 # Build settings
 markdown: kramdown
