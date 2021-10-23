@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Welcome to the 22nd Century"
+description: " Why is divergent thinking undervalued in today's societies? Imagine a world where everyone has the luxury to operate on divergent thinking."
+date:   2020-10-09 12:24:13 -0400
+---
+Imagine a world where everyone has the luxury to operate on divergent thinking. Welcome to the ThinkDivergent.io blog where we share our journey building the twenty-second century civilization that make it a reality.
+
+Divergent thinking is under-appreciated in today's societies where success is defined using convergent thinking metrics. 
+
+Looking at how the divergent thinking process works it's not surprising why. In addition to marginalizing the divergent thinkers among us, this mismatch has far reaching consequences to our societies that we will explore in the future. 
+
+For now, checkout this "Blueprint" on divergent thinking.
+
+<div class="bp-container">
+    <iframe src="https://thinkdivergent.io/embed/blueprint/57a96e4a3a5d4940b23803c03cb38706"></iframe>
+</div>
+
+**Double click** on an item to zoom in. **Double click again** to zoom out.  
+**Double click the background** to reset view. **Double click** a link item to open link.
+
+
